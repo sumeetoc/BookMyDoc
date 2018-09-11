@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<title>Sumeet is Online ladies!</title>
+<title>Sumeet i love u</title>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 
