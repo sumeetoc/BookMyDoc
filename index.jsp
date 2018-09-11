@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<title>Sumeet hates shrawani</title>
+<title>Sumeet hates shrawani so much</title>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 
