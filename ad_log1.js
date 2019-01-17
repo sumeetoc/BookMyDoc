@@ -16,5 +16,4 @@ else if (value =!value.toString().match(/^[-]?\d*\.?\d*$/))
 alert("Enter only numerals");
 return false;
 }
-return true;
-}
+return true;}
